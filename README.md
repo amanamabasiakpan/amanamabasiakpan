@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Amanamabasi Akpan and I'm a Software Engineer, from Lagos, Nigeria</p>
+<p align="left">My name is Amanamabasi Akpan and I'm a Software Engineer from Lagos, Nigeria</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Machine Learning <br>🎯 Goals: Build an AI Startup <br>🎲 Fun fact: I love swimming</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning AI & Machine Learning <br>🎯 Goals: Build an AI Startup <br>🎲 Fun fact: I love swimming</p>
 
 ###
 
@@ -35,5 +35,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
+
+## Contact
+Reach me at [amanamabasiakpan@gmail.com](mailto:amanamabasiakpan@gmail.com)
+
 
 ###
