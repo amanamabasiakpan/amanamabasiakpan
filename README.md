@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Machine Learning <br>🎯 Goals: Buiid and AI Startup <br>🎲 Fun fact: I love swimming</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Machine Learning <br>🎯 Goals: Build an AI Startup <br>🎲 Fun fact: I love swimming</p>
 
 ###
 
