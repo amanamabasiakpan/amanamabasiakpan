@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Amanamabasi Akpan</h1>
-<h3 align="center">Software Engineer | Frontend Developer | AI Enthusiast</h3>
+<h1 align="left">Hi 👋, I'm Amanamabasi Akpan</h1>
+<h3 align="left">Software Engineer | Frontend Developer | AI Enthusiast</h3>
+<h3 align="left">Portfolio: [amanamabasi.vercel.app](https://amanamabasi.vercel.app) </h3>
+
 
 ---
 
