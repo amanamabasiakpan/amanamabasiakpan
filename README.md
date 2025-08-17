@@ -1,43 +1,46 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Amanamabasi Akpan</h1>
+<h3 align="center">Software Engineer | Frontend Developer | AI Enthusiast</h3>
 
-###
+---
 
-<p align="left">My name is Amanamabasi Akpan and I'm a Software Engineer from Lagos, Nigeria</p>
+### 👨‍💻 About Me  
+- 🚀 Passionate about building **scalable web applications** and exploring **AI & Machine Learning**  
+- 🌱 Currently learning **AI, Machine Learning, and Full-Stack Development**  
+- 🎯 Goal: Launch an **AI-driven startup**  
+- ⚡ Fun fact: I love **swimming** 🏊  
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />
+</p>
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning AI & Machine Learning <br>🎯 Goals: Build an AI Startup <br>🎲 Fun fact: I love swimming</p>
+### 📬 Get in Touch  
+- 📧 Email: [amanamabasiakpan@gmail.com](mailto:amanamabasiakpan@gmail.com)  
+- 💼 LinkedIn: [Amanamabasi Akpan](https://www.linkedin.com/in/amanamabasi-akpan)  
+- 🐦 Twitter: [@0xtechbro](https://twitter.com/0xtechbro)  
 
-###
+---
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-## Contact
-Reach me at [amanamabasiakpan@gmail.com](mailto:amanamabasiakpan@gmail.com)
-
-
-###
+### 📈 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanamabasi&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanamabasi&layout=compact&theme=tokyonight" alt="Top languages" height="180" />
+</p>
