@@ -37,10 +37,3 @@
 - 💼 LinkedIn: [Amanamabasi Akpan](https://www.linkedin.com/in/amanamabasi-akpan)  
 - 🐦 Twitter: [@0xtechbro](https://twitter.com/0xtechbro)  
 
----
-
-### 📈 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanamabasi&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanamabasi&layout=compact&theme=tokyonight" alt="Top languages" height="180" />
-</p>
