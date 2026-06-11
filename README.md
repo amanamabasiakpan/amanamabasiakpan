@@ -38,7 +38,7 @@
 │                                                                             │
 │  I help businesses transform raw data into clear insights that improve      │
 │  performance, identify opportunities, and drive growth. Whether you need    │
-│  dashboards, reports, data cleaning, or analysis — I turn complex datasets    │
+│  dashboards, reports, data cleaning, or analysis — I turn complex datasets  │
 │  into actionable business intelligence.                                     │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
