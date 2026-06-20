@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center">
+  <h1>Data & Business Intelligence Analyst</h1>
+  <p>SQL | Power BI | Excel | Python | ETL | Data Modeling</p>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0D9488&center=true&vCenter=true&width=500&lines=Turning+Raw+Data+Into+Strategic+Decisions;Building+Data+Warehouses+That+Feed+Dashboards;Teaching+People+To+Speak+The+Language+Of+Data)](https://git.io/typing-svg)
 
