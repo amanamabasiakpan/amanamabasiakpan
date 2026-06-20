@@ -11,9 +11,9 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 About
 
-> *"I don't just analyze data — I build systems that make data impossible to ignore."*
+> *"I build systems that make data impossible to ignore."*
 
 I'm a **Data & Business Intelligence Analyst** based in Lagos, Nigeria. I specialize in end-to-end analytics: designing data warehouses, building automated dashboards, and translating complex datasets into decisions that move revenue.
 
@@ -26,7 +26,7 @@ Through **Amanam Teaches**, I help professionals and beginners master the tools 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🏗️ PROJECT ATLAS — E-Commerce Data Warehouse
 > **1.6M+ records. 9 sources. One star schema. One source of truth.**
