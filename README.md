@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Data & Business Intelligence Analyst</h1>
-    <h1>Tech Educator & Developer</h1>
+    <h2>Tech Educator & Developer</h2>
   <p>SQL | Power BI | Excel | Python | ETL | Data Modeling</p>
 </div>
 
