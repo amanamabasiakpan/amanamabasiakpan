@@ -27,35 +27,6 @@ Through **Amanam Teaches**, I help professionals and beginners master the tools 
 
 ---
 
-## 🚀 Projects
-
-### 🏗️ PROJECT ATLAS — E-Commerce Data Warehouse
-> **1.6M+ records. 9 sources. One star schema. One source of truth.**
-
-Built an end-to-end analytics system in **Azure SQL Database** — ingested, modeled, and visualized e-commerce data from 9 disparate sources into a clean star schema. The Power BI dashboard now drives sales strategy, customer behavior analysis, and delivery optimization.
-
-`SQL` · `Azure SQL` · `Power BI` · `Power Query` · `ETL` · `Data Modeling`
-
----
-
-### 📧 PULSE — Email Campaign Intelligence
-> **From scattered campaign data to unified, real-time insight.**
-
-Unified Sendy and SendGrid data into one SQL model with **DAX-powered Power BI dashboards** tracking open rates, CTR, and engagement trends. Cut manual reporting time and gave marketing a real-time view of what works.
-
-`SQL` · `DAX` · `Power BI` · `Power Query` · `Data Modeling`
-
----
-
-### 📊 Student Acquisition Analytics — Advance Careers UK
-> **Full-funnel visibility. Automated. Actionable.**
-
-Built the entire BI layer from scratch: consolidated CRM + web analytics + internal databases into automated KPI dashboards. Funnel and cohort analysis identified drop-off points that directly improved lead nurturing and enrollment conversion.
-
-`CRM Analytics` · `Web Analytics` · `Funnel Analysis` · `Cohort Analysis` · `Power BI` · `SQL`
-
----
-
 ## 🛠️ Tools I Build With
 
 <div align="center">
