@@ -5,7 +5,7 @@
 I support office endpoints, LAN/Wi-Fi, CCTV, domains, DNS and business email.  
 I document the work so the next person can operate it.
 
-[LinkedIn](https://linkedin.com/in/amanamabasiakpan) · Lagos · Open to IT Support / junior Network Support
+[LinkedIn](https://linkedin.com/in/amanamabasiakpan) · Lagos · Open to IT Support / Network Support
 
 ---
 
@@ -40,7 +40,3 @@ CCNA-style networks, Active Directory, Microsoft 365 / Entra ID / Intune, packet
 - Google Cybersecurity Professional Certificate — 2024
 - CCNA — in progress
 
-## How I work
-
-Assess → specify → install → test → write it down.  
-Labs use `lab.local` and RFC1918 addresses only. No production secrets live here.
