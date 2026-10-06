@@ -21,19 +21,6 @@ I document the work so the next person can operate it.
 
 CCNA-style networks, Active Directory, Microsoft 365 / Entra ID / Intune, packet analysis, and endpoint hardening. Each repo below is a complete lab you can read without opening Packet Tracer first.
 
-| Repo | What a recruiter will see in 60 seconds |
-|---|---|
-| [campus-network-lab](https://github.com/amanamabasiakpan/campus-network-lab) | VLANs, inter-VLAN routing, OSPF, PAT, ACLs + IOS snippets |
-| [soho-guest-isolation](https://github.com/amanamabasiakpan/soho-guest-isolation) | Staff vs guest isolation on a small office LAN |
-| [windows-ad-lab](https://github.com/amanamabasiakpan/windows-ad-lab) | Domain, DNS, DHCP, OU design, GPO, PowerShell |
-| [m365-intune-lab](https://github.com/amanamabasiakpan/m365-intune-lab) | Users, groups, MFA, Conditional Access, compliance |
-| [dns-email-lab](https://github.com/amanamabasiakpan/dns-email-lab) | SPF / DKIM / DMARC and mailbox deliverability |
-| [wireshark-troubleshooting](https://github.com/amanamabasiakpan/wireshark-troubleshooting) | Three packet captures explained in plain language |
-| [windows-provisioning-kit](https://github.com/amanamabasiakpan/windows-provisioning-kit) | Scripts and a checklist I use to hand over a PC |
-| [cctv-network-runbook](https://github.com/amanamabasiakpan/cctv-network-runbook) | Camera VLAN, PoE, NVR addressing, handover notes |
-| [remote-access-hardening](https://github.com/amanamabasiakpan/remote-access-hardening) | RDP, SSH and AnyDesk done safely |
-| [endpoint-backup-lab](https://github.com/amanamabasiakpan/endpoint-backup-lab) | Updates, AV, backup and a restore test that actually ran |
-
 ## Certifications
 
 - Google IT Support Professional Certificate — 2024
